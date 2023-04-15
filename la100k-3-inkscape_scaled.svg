@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 322.42 85.56"
+   version="1.1"
+   sodipodi:docname="la100k-3-inkscape_scaled.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4765"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.044194174"
+     inkscape:cx="-2126.9772"
+     inkscape:cy="2274.0554"
+     inkscape:window-width="2558"
+     inkscape:window-height="2071"
+     inkscape:window-x="1272"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4706">
+    <style
+       id="style4704">
+            .cls-1 {
+            fill: #fbb040;
+            }
+
+            .cls-2 {
+            fill: #231f20;
+            }
+        </style>
+  </defs>
+  <g
+     id="group_text"
+     transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)">
+    <g
+       id="g11"
+       inkscape:label="L">
+      <path
+         class="cls-2"
+         d="M 47.03,68.02 V 82.15 H 0 V 3.66 h 23.66 v 64.36 z"
+         id="path4708" />
+    </g>
+    <g
+       id="g22"
+       inkscape:label="A">
+      <path
+         class="cls-2"
+         d="M 91.96,3.66 H 72.15 L 50.74,82.15 h 10.6 l 3.19,-11.83 h 20.61 l 3.27,11.83 h 25.11 z m -23.88,53.69 6.75,-24.7 6.75,24.7 z"
+         id="path4710" />
+    </g>
+    <g
+       id="g29"
+       inkscape:label="1">
+      <path
+         class="cls-2"
+         d="m 141.75,82.15 h -21.7 V 17.27 L 141.75,0 Z"
+         id="path4712" />
+    </g>
+    <g
+       id="g40"
+       inkscape:label="01">
+      <path
+         class="cls-2"
+         d="M 193.5,14.23 C 188.47,5.72 182.2,1.46 174.7,1.46 c -7.5,0 -13.84,4.22 -18.87,12.66 -4.69,7.88 -7.04,17.48 -7.04,28.78 0,11.3 2.35,20.9 7.04,28.78 5.03,8.51 11.32,12.77 18.87,12.77 7.55,0 13.72,-4.26 18.8,-12.77 4.74,-7.95 7.11,-17.55 7.11,-28.78 0,-11.23 -2.37,-20.72 -7.11,-28.67 z m -7.48,47.3 c -2.95,5.44 -6.9,8.41 -11.83,8.9 V 15.49 c 4.94,0.49 8.88,3.42 11.83,8.79 2.95,5.37 4.43,11.58 4.43,18.63 0,7.05 -1.48,13.19 -4.43,18.63 z"
+         id="path4714" />
+    </g>
+    <g
+       id="g51"
+       inkscape:label="02">
+      <path
+         class="cls-2"
+         d="m 250.04,14.23 c -5.03,-8.51 -11.3,-12.77 -18.8,-12.77 -7.5,0 -13.84,4.22 -18.87,12.66 -4.69,7.88 -7.04,17.48 -7.04,28.78 0,11.3 2.35,20.9 7.04,28.78 5.03,8.51 11.32,12.77 18.87,12.77 7.55,0 13.72,-4.26 18.8,-12.77 4.74,-7.95 7.11,-17.55 7.11,-28.78 0,-11.23 -2.37,-20.72 -7.11,-28.67 z m -7.48,47.3 c -2.95,5.44 -6.9,8.41 -11.83,8.9 V 15.49 c 4.94,0.49 8.88,3.42 11.83,8.79 2.95,5.37 4.43,11.58 4.43,18.63 0,7.05 -1.48,13.19 -4.43,18.63 z"
+         id="path4716" />
+    </g>
+    <g
+       id="g63"
+       inkscape:label="K">
+      <path
+         class="cls-2"
+         d="m 322.42,84.45 -12.94,1.11 -16.91,-34.01 -5.59,11.09 V 83.15 H 263.32 V 4.66 h 23.66 v 33.6 l 17.79,-33.6 h 12.19 l -17.64,33.7 z"
+         id="path4718" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Bulbs">
+    <g
+       id="g773"
+       inkscape:label="K">
+      <circle
+         id="bulb-2"
+         class="cls-1"
+         cx="297.35001"
+         cy="29.92"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-6"
+         class="cls-1"
+         cx="305.47"
+         cy="15.49"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-7"
+         class="cls-1"
+         cx="289.62"
+         cy="45.18"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-8"
+         class="cls-1"
+         cx="273.62"
+         cy="73.82"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-9"
+         class="cls-1"
+         cx="273.62"
+         cy="32.68"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-10"
+         class="cls-1"
+         cx="273.62"
+         cy="16.18"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-11"
+         class="cls-1"
+         cx="273.62"
+         cy="53.25"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-12"
+         class="cls-1"
+         cx="310.62"
+         cy="74.18"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-13"
+         class="cls-1"
+         cx="302.62"
+         cy="58.18"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+    </g>
+    <g
+       id="g791"
+       inkscape:label="02">
+      <circle
+         id="bulb-3"
+         class="cls-1"
+         cx="251.35001"
+         cy="43.919998"
+         r="3.0999999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-4"
+         class="cls-1"
+         cx="246.97"
+         cy="64.970001"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-5"
+         class="cls-1"
+         cx="232.92999"
+         cy="77"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-14"
+         class="cls-1"
+         cx="248.24001"
+         cy="23.129999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-15"
+         class="cls-1"
+         cx="232.2"
+         cy="9.1000004"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-16"
+         class="cls-1"
+         cx="215.02"
+         cy="43.970001"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-17"
+         class="cls-1"
+         cx="219.03"
+         cy="22.41"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-18"
+         class="cls-1"
+         cx="220.03"
+         cy="64.589996"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+    </g>
+    <g
+       id="g809"
+       inkscape:label="01">
+      <circle
+         id="bulb-19"
+         class="cls-1"
+         cx="195.48"
+         cy="43.84"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-20"
+         class="cls-1"
+         cx="189.38"
+         cy="63.799999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-21"
+         class="cls-1"
+         cx="175.34"
+         cy="75.830002"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-22"
+         class="cls-1"
+         cx="191.75"
+         cy="23.049999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-23"
+         class="cls-1"
+         cx="175.7"
+         cy="9.0100002"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-24"
+         class="cls-1"
+         cx="157.42999"
+         cy="42.790001"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-25"
+         class="cls-1"
+         cx="161.44"
+         cy="21.24"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-26"
+         class="cls-1"
+         cx="162.44"
+         cy="63.41"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+    </g>
+    <g
+       id="g819"
+       inkscape:label="1">
+      <circle
+         id="bulb-27"
+         class="cls-1"
+         cx="130.38"
+         cy="72.989998"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-28"
+         class="cls-1"
+         cx="130.13"
+         cy="37.59"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-29"
+         class="cls-1"
+         cx="130.13"
+         cy="19.93"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-30"
+         class="cls-1"
+         cx="130.38"
+         cy="56.290001"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+    </g>
+    <g
+       id="g837"
+       inkscape:label="A">
+      <circle
+         id="bulb-1"
+         class="cls-1"
+         cx="57.43"
+         cy="73.440002"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-36"
+         class="cls-1"
+         cx="73.699997"
+         cy="63.139999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-37"
+         class="cls-1"
+         cx="63.68"
+         cy="49.110001"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-38"
+         class="cls-1"
+         cx="68.690002"
+         cy="29.059999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-39"
+         class="cls-1"
+         cx="98.339996"
+         cy="71.910004"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-40"
+         class="cls-1"
+         cx="93.019997"
+         cy="49.080002"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-41"
+         class="cls-1"
+         cx="85.639999"
+         cy="28.459999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-42"
+         class="cls-1"
+         cx="78.709999"
+         cy="12.01"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+    </g>
+    <g
+       id="g849"
+       inkscape:label="L">
+      <circle
+         id="bulb-31"
+         class="cls-1"
+         cx="9.5600004"
+         cy="72.529999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-32"
+         class="cls-1"
+         cx="9.3100004"
+         cy="34.119999"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-33"
+         class="cls-1"
+         cx="9.3100004"
+         cy="14.46"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-34"
+         class="cls-1"
+         cx="9.5600004"
+         cy="52.82"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+      <circle
+         id="bulb-35"
+         class="cls-1"
+         cx="32.599998"
+         cy="73.169998"
+         r="3.1099999"
+         transform="matrix(37.863265,0,0,37.863265,-5942.727,-1577.0105)" />
+    </g>
+  </g>
+</svg>
