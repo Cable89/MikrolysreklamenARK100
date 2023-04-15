@@ -150,23 +150,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHGCHREK
 
-[Document7]
-DocumentPath=..\Mikroreklamer_sammenligning.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FYHHDKIB
-
 [ProjectVariant1]
 UniqueID=8D8415AA-85C2-4736-8E62-32CB74AA607D
 Description=Default assembly
