@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NFRJGWYY
 
 [Document3]
-DocumentPath=Mikrolysreklamen17.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=Mikrolysreklamen.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=Mikrolysreklamen.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUSPSFLS
 
-[Document6]
+[Document5]
 DocumentPath=Mikrolysreklamen.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,6 +133,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHGCHREK
 
+[Document6]
+DocumentPath=LEDs.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DXYIFWOS
+
 [ProjectVariant1]
 UniqueID=8D8415AA-85C2-4736-8E62-32CB74AA607D
 Description=Default assembly
@@ -162,242 +162,6 @@ Variation3=Designator=M1|UniqueId=\VLOOJMTG|Kind=1|AlternatePart=
 Variation4=Designator=J1|UniqueId=\LNNOELIF|Kind=1|AlternatePart= 
 Variation5=Designator=P1|UniqueId=\DLAOWDID|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs\Test Points\Assembly Testpoint Report for Mikrolysreklamen17.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs\Test Points\Assembly Testpoint Report for Mikrolysreklamen17.txt
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs\BOM\Bill of Materials-Mikrolysreklamen17.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs\BOM\Bill of Materials Fusion PCBA-Mikrolysreklamen17.xls
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs\Test Points\Fabrication Testpoint Report for Mikrolysreklamen17.csv
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs\Test Points\Fabrication Testpoint Report for Mikrolysreklamen17.txt
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\internal_plane_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\internal_plane_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\mechanical_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\mechanical_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs\NC Drill\Mikrolysreklamen17.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs\NC Drill\Mikrolysreklamen17.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs\AutoCAD PCB\Mikrolysreklamen17.DWG
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs\Stencil\Mikrolysreklamen17.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs\NC Drill\Mikrolysreklamen17.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs\Stencil\Mikrolysreklamen17.P1
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs\Stencil\Mikrolysreklamen17.P2
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.REP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs\ODB\Mikrolysreklamen17.REP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs\Stencil\Mikrolysreklamen17.REP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs\Gerber\Mikrolysreklamen17.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs\Stencil\Mikrolysreklamen17.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs\ExportSTEP\Mikrolysreklamen17.step
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs\NC Drill\Mikrolysreklamen17.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs\Pick Place\Pick Place for Mikrolysreklamen17.txt
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -521,7 +285,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother PT-P710BT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -750,12 +514,6 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1106,7 +864,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
